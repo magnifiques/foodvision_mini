@@ -1,9 +1,7 @@
 # 🍽 FoodVision Mini
 
-**Arpit Vaghela**  
-*Computer Engineering Student at the University of Guelph*
+![1726526443608](https://github.com/user-attachments/assets/510fae45-07ee-4cb1-a672-5b8f916047c1)
 
----
 
 ## 🚀 Introducing FoodVision Mini: A Vision Transformer-Based Food Classifier
 
