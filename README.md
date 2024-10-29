@@ -57,8 +57,6 @@ FoodVision Mini is accessible through an interactive demo built with **Gradio**.
 
 I hosted the FoodVision Mini demo on **Hugging Face Spaces**, a platform for ML model sharing. It allows live model demos for a hands-on experience, making the project accessible to others.
 
-🔗 [FoodVision Mini Demo on Hugging Face Spaces](link-to-demo)
-
 ## 🧪 Model Deployment: Experiment Summary
 
 My goal was to deploy a model that:
@@ -84,3 +82,6 @@ Using **CrossEntropyLoss** and the **Adam optimizer** (learning rate = 1e-3), th
 - **Gradio**: Building an interactive web demo.
 - **Hugging Face Spaces**: Hosting the live demo.
 
+🔗 Check out the FoodVision Mini demo on Hugging Face Spaces: [link](https://huggingface.co/spaces/vapit/foodvision_mini)
+
+I have been working for three months to read, research, and learn how to implement and develop this model! I hope you give it a fair try and see if it predicts correctly or not! If you want feedback, learn how I made it, or access my Google Colab notebook, feel free to reach out to me.
